@@ -10,8 +10,6 @@
     Soal Latihan Modul 4.c
     Soal Latihan Modul 5.c
     Soal Latihan Modul Tambahan.c
-### 1. Unduh dan pasang Git pada PC/Laptop
-    https://git-scm.com/downloads
 ### Keterangan untuk soal yang dikerjakan:
     //Soal 1
      your code;
